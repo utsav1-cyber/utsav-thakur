@@ -61,12 +61,6 @@ I've worked on Shopware stores across industries including:
 
 ---
 
-## 📊 GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsav1-cyber&show_icons=true&hide_border=true)](https://github.com/utsav1-cyber)
-
----
-
 ## 📫 Connect
 
 📧 **Email:** heyitsutsav@gmail.com  
