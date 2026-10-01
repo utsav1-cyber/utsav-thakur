@@ -2,7 +2,7 @@
 
 ### Shopware Developer | PHP | E-Commerce | Open Source
 
-I'm a Shopware Developer with 4+ years of experience building
+I'm a Shopware Developer with 5+ years of experience building
 enterprise-level e-commerce solutions for clients across Germany
 and the EU.
 
