@@ -65,7 +65,7 @@ I've worked on Shopware stores across industries including:
 
 📧 **Email:** heyitsutsav@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/utsav-thakur-4a2113220](https://linkedin.com/in/utsav-thakur-4a2113220)  
-🐙 **GitHub:** [@utsav1-cyber](https://github.com/utsav1-cyber)
+🐙 **GitHub:** [@utsav1-cyber](https://github.com/utsav1-cyber)  
 🌐 **Portfolio:** [utsav-thakur-portfolio.pages.dev](https://utsav-thakur-portfolio.pages.dev/)
 
 ---
